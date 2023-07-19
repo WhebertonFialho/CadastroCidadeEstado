@@ -2,6 +2,7 @@
 
 Desenvolvido usando as tecnologias:
 BackEnd: Python + Django + Django REST Framework;
+
 FrontEnd: ReactJS + CoreUI;
 
 ## Instalação
