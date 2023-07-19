@@ -1,0 +1,26 @@
+.btn-info {
+    color: white;
+    &:hover {
+        background-color: #4ba9e7;
+        color: white;
+    }
+}
+
+.btn-success {
+    color: white;
+    &:hover {
+      background-color: #2fc561;
+      color: white;
+    }
+    &:disabled {
+      background-color: #2fc561;
+      color: white;
+    }
+}
+
+.btn-danger {
+    color: white;
+    &:hover {
+        color: white;
+    }
+}

@@ -1,0 +1,218 @@
+[
+    {
+        "model": "estado.Estado",
+        "pk": 12,
+        "fields": {
+          "nome": "Acre",
+          "sigla": "AC"
+        }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 27,
+      "fields": {
+        "nome": "Alagoas",
+        "sigla": "AL"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 16,
+      "fields": {
+        "nome": "Amapá",
+        "sigla": "AP"
+      } 
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 13,
+      "fields": {
+        "nome": "Amazonas",
+        "sigla": "AM"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 29,
+      "fields": {
+        "nome": "Bahia",
+        "sigla": "BA"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 23,
+      "fields": {
+        "nome": "Ceará",
+        "sigla": "CE"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 53,
+      "fields": {
+        "nome": "Distrito Federal",
+        "sigla": "DF"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 32,
+      "fields": {
+        "nome": "Espírito Santo",
+        "sigla": "ES"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 52,
+      "fields": {
+        "nome": "Goiás",
+        "sigla": "GO"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 21,
+      "fields": {
+        "nome": "Maranhão",
+        "sigla": "MA"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 51,
+      "fields": {
+        "nome": "Mato Grosso",
+        "sigla": "MT"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 50,
+      "fields": {
+        "nome": "Mato Grosso do Sul",
+        "sigla": "MS"
+      }
+    },	
+    {
+      "model": "estado.Estado",
+      "pk": 31,
+      "fields": {
+        "nome": "Minas Gerais",
+        "sigla": "MG"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 15,
+      "fields": {
+        "nome": "Pará",
+        "sigla": "PA"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 25,
+      "fields": {
+        "nome": "Paraíba",
+        "sigla": "PB"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 41,
+      "fields": {
+        "nome": "Paraná",
+        "sigla": "PR"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 26,
+      "fields": {
+        "nome": "Pernambuco",
+        "sigla": "PE"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 22,
+      "fields": {
+        "nome": "Piauí",
+        "sigla": "PI"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 33,
+      "fields": {
+        "nome": "Rio de Janeiro",
+        "sigla": "RJ"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 24,
+      "fields": {
+        "nome": "Rio Grande do Norte",
+        "sigla": "RN"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 43,
+      "fields": {
+        "nome": "Rio Grande do Sul",
+        "sigla": "RS"
+      }
+    },
+    {
+      "model": "estado.Estado",
+      "pk": 11,
+      "fields": {
+        "nome": "Rondônia",
+        "sigla": "RO"
+      }
+  },
+  {
+      "model": "estado.Estado",
+      "pk": 14,
+      "fields": {
+        "nome": "Roraima",
+        "sigla": "RR"
+      }
+  },	
+  {
+    "model": "estado.Estado",
+    "pk": 42,
+    "fields": {
+      "nome": "Santa Catarina",
+      "sigla": "SC"
+    }
+  },
+  {
+    "model": "estado.Estado",
+    "pk": 35,
+    "fields": {
+      "nome": "São Paulo",
+      "sigla": "SP"
+    }
+  },   
+  {
+    "model": "estado.Estado",
+    "pk": 28,
+    "fields": {
+      "nome": "Sergipe",
+      "sigla": "SE"
+    }
+  },
+  {
+      "model": "estado.Estado",
+      "pk": 17,
+      "fields": {
+        "nome": "Tocantins",
+        "sigla": "TO"
+      }
+  }	
+]
