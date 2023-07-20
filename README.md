@@ -28,7 +28,6 @@ npm install --legacy-peer-deps
 No diretório './back-end';
 ```
 python manage.py runserver
-
 ```
 
 No diretório './front-end';
